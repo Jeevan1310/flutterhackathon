@@ -31,7 +31,7 @@ class _MyAppState extends State<MyApp> {
       theme: ThemeData(
         primarySwatch: Colors.brown,
       ),
-      home: MyHomePage(title: 'My Todo List'),
+      home: MyHomePage(title: 'My Todo Application'),
     );
   }
 }
